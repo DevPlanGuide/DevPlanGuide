@@ -1,17 +1,15 @@
 ![Logotype](logo.png)
 > Here you can find a map of competencies and skills what you might want to apply for yourself or for your team. Just give it a try! 
 - [Роадмап](https://tlroadmap.io/roadmap-ru.svg)
-- [Сайт с базой знаний](https://tlroadmap.io)
-- [Telegram-чат проекта](https://tlinks.run/tlbootcamp)
 
 # What is it for?
 Roles of Team lead, Tech lead, Manager are very broad. We have different tasks, work in different departments, have different level of accountability. In addition to this, we have our own management styles and differnet personalities. 
 
-We identified some basic competencies of leaders and compile it together into the following model. 
+We identified some basic competencies of leaders and compile it together into the following map. 
 
-You can use this model to create your own development plan, to draft job description, to draft job postings or to use during interviews or Check Ins. You might not need all branches and that's okay. 
+You can use this map to create your own development plan, to draft job description, to draft job postings or to use during interviews or Check Ins. You might not need all branches and that's okay. 
 
-> 🚨 **Important:** Depending on the function leader needs to work on different branches and competencies. It does not mean that the final goal is development in all branches as per this model. Primarily you need to pay attention on problems at your workplace and your needs. 
+> 🚨 **Important:** Depending on the function leader needs to work on different branches and competencies. It does not mean that the final goal is development in all branches as per this map. Primarily you need to pay attention on problems at your workplace and your needs. 
 Work in progress, don't hesitate to suggest new branches, ask questions, and participate in discussions. 
 
 # How to use?
@@ -29,17 +27,17 @@ Work in progress, don't hesitate to suggest new branches, ask questions, and par
 3. If you want to dive deeper, use section "Theory" in order to use outside materials better describing this branch.
 
 ## 🗺To define your responsibilities
-1. Скачайте себе [Mindmap](https://tlroadmap.io/roadmap-ru.mm) с полной моделью тимлида.
-2. Вместе с руководителем или другими заинтересованными лицами адаптируйте карту для своей ситуации – вычеркните лишние ветки, выполнения которых от вас не ожидается. Постарайтесь свести количество веток к минимуму и оставить там только те, которые действительно требуются, а не те, которые вам могут пригодиться только теоретически.
-3. Используйте получившуюся карту для того, чтобы в будущем запрашивать обратную связь о своих результатах, отслеживать изменение области ответственности и начинать переговоры о повышении зарплаты, объяснять команде и заказчикам, за что вы отвечаете.
+1. Download [Mindmap](https://tlroadmap.io/roadmap-ru.mm) with full map.
+2. Together with your manager and other interested persons adapt the map to your situation - cross out unnecessary branches, what is not expected from you. Try to minimize the number of branches and leave only those what you need, not what you might need theorectically. 
+3. Use map what you would get in order to request feedback about your performance, monitor changes and track your responsibilities. You can use it to explain what you are accountable for to your team and to customers. 
 
-## 💰Для найма тимлидов
-1. Скачайте себе [Mindmap](https://tlroadmap.io/roadmap-ru.mm) с полной моделью тимлида.
-2. Оставьте только те ветки, выполнение которых будет обязательным для кандидата, успешно прошедшего интервью.
-3. Составьте описание вакансии, которое будет включать в себя названия и описания веток из получившейся модели.
-4. Составьте план интервью, в котором вы сможете проверить опыт кандидата в работе со всеми ветками. В этом могут помочь секции "Примеры поведения" и "Способы прокачки".
+## 💰To hire leaders (internally or externally)
+1. Download [Mindmap](https://tlroadmap.io/roadmap-ru.mm) with full map. 
+2. Leave branches what would be mandatory to perform for potential candidate. 
+3. Create job posting what would include elements from map what you would get. 
+4. Create interview plan what you would follow to check candidate experience in different branches. Sections with examples of behavior and "Ways to develop" might help.  прокачки".
 
-# Роадмап
+# Map
 
 ![Роадмап](https://tlroadmap.io/roadmap-ru.svg?sanitize=true)
 
@@ -47,9 +45,9 @@ Work in progress, don't hesitate to suggest new branches, ask questions, and par
 - **Роли и обязанности.** Перечень высокоуровневых рабочих ролей и более конкретных обязанностей и зон ответственности.
 - **Personal Skills.** Личные навыки и качества, наличие которых необходимо для определённых ролей и обязанностей.
 
-Если кликнуть по картинке выше, то все ссылки в листьях станут кликабельны, и будут вести на соответствующую запись в базе знаний.
+If you click on some element above you will get to the respective article in knowledge database. 
 
-## Скачать роадмап
+## Download map
 - [PNG](https://tlroadmap.io/roadmap-ru.png)
 - [Mindmap](https://tlroadmap.io/roadmap-ru.mm)
 - [Plantuml](https://tlroadmap.io/roadmap-ru.puml)
@@ -60,18 +58,4 @@ Work in progress, don't hesitate to suggest new branches, ask questions, and par
 - [Telegram-чат проекта](https://tlinks.run/tlbootcamp)
 
 # Work in progress
-Текущий роадмап – не финальный, база знаний продолжает наполняться, а структура веток периодически обновляется. Мы будем очень рады вашему участию в проекте. Если вы готовы помочь и поделиться своим опытом – прочитайте [инструкцию по быстрому старту](CONTRIBUTING.md).
-
-# База знаний
-Использовать базу можно двумя способами:
-- Открывая статьи [на сайте](https://tlroadmap.io/guide.html)
-- Переходя по ссылкам в листьях [кликабельной версии карты](https://tlroadmap.io/roadmap-ru.svg)
-
-База наполняется постепенно Стасом Цыгановым, Егором Толстым и сообществом. Если вы не согласны с каким-то из существующих описаний, или считаете, что можете его улучшить – присылайте свой pull request. Если есть вопросы по самой структуре – точно так же, добро пожаловать [в наш чат](https://tlinks.run/tlbootcamp) или сразу в pull request.
-Текущий роадмап – не финальный, база знаний продолжает наполняться, а структура веток периодически обновляется. Мы будем очень рады вашему участию в проекте – не стесняйтесь публиковать Issue, закидывать свои pull request и присоединяться к обсуждению [в Telegram-чате](https://tlinks.run/tlbootcamp). Если вы готовы помочь и поделиться своим опытом – прочитайте [инструкцию по быстрому старту](https://tlroadmap.io/contributing.html).
-
-# Лицензия
-Мы используем [лицензию Creative Commons Attribution-ShareAlike 4.0](LICENSE.md). Если кратко, вы можете свободно:
-Мы используем [лицензию Creative Commons Attribution-ShareAlike 4.0](https://tlroadmap.io/license.html). Если кратко, вы можете свободно:
-- **Делиться (обмениваться)** — копировать и распространять материал на любом носителе и в любом формате.
-- **Адаптировать (создавать производные материалы)** — делать ремиксы, видоизменять, и создавать новое, опираясь на этот материал в любых целях, включая коммерческие.
+Current map is not final and knowledge database would be replenished, and structure of the branches is updating periodically. We would be happy with your participation in this project. If you are ready to help and share your experience - read [инструкцию по быстрому старту](CONTRIBUTING.md).
