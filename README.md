@@ -41,10 +41,6 @@ Work in progress, don't hesitate to suggest new branches, ask questions, and par
 
 ![Роадмап](https://tlroadmap.io/roadmap-ru.svg?sanitize=true)
 
-Роадмап содержит в себе два раздела:
-- **Роли и обязанности.** Перечень высокоуровневых рабочих ролей и более конкретных обязанностей и зон ответственности.
-- **Personal Skills.** Личные навыки и качества, наличие которых необходимо для определённых ролей и обязанностей.
-
 If you click on some element above you will get to the respective article in knowledge database. 
 
 ## Download map
